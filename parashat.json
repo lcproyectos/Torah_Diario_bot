@@ -1,0 +1,44 @@
+{
+  "bereshit": {
+    "name": "Bereshit",
+    "hebrew": "בראשית",
+    "verses": "Génesis 1:1 - 6:8",
+    "summary": "Creación del mundo, caída del ser humano, el primer asesinato, y el deterioro moral que conduce al diluvio.",
+    "key_lesson": "Dios crea con propósito; el ser humano posee libertad, pero también responsabilidad moral."
+  },
+  "noach": {
+    "name": "Noaj",
+    "hebrew": "נֹחַ",
+    "verses": "Génesis 6:9 - 11:32",
+    "summary": "El diluvio universal, la construcción del arca, el pacto con Dios, y la torre de Babel.",
+    "key_lesson": "La justicia divina frente a la corrupción humana; la unidad sin humildad puede llevar a la caída."
+  },
+  "lech-lecha": {
+    "name": "Lej Leja",
+    "hebrew": "לֶךְ-לְךָ",
+    "verses": "Génesis 12:1 - 17:27",
+    "summary": "Dios llama a Abram, quien emprende un viaje espiritual; se convierte en Abraham y recibe la alianza de la circuncisión.",
+    "key_lesson": "La fe y el compromiso personal son el fundamento de una identidad espiritual duradera."
+  },
+  "vayera": {
+    "name": "Vayera",
+    "hebrew": "וַיֵּרָא",
+    "verses": "Génesis 18:1 - 22:24",
+    "summary": "Los ángeles visitan a Abraham, se anuncia el nacimiento de Isaac, se destruye Sodoma y Gomorra, y ocurre la prueba del sacrificio de Isaac.",
+    "key_lesson": "La hospitalidad, la justicia divina y la fe absoluta se revelan como pilares éticos fundamentales."
+  },
+  "chayei-sara": {
+    "name": "Chayei Sara",
+    "hebrew": "חַיֵּי שָׂרָה",
+    "verses": "Génesis 23:1 - 25:18",
+    "summary": "La muerte de Sara, la compra de la cueva de Macpela, y la búsqueda de esposa para Isaac mediante la guía divina.",
+    "key_lesson": "La providencia y el legado espiritual se transmiten a través de decisiones familiares guiadas por la fe."
+  },
+  "toledot": {
+    "name": "Toledot",
+    "hebrew": "תּוֹלְדֹת",
+    "verses": "Génesis 25:19 - 28:9",
+    "summary": "La historia de Isaac y Rebeca, el conflicto entre Jacob y Esaú, la venta de la primogenitura y la bendición obtenida por Jacob.",
+    "key_lesson": "Las decisiones humanas, incluso las más controversiales, pueden ser instrumentos de la voluntad divina."
+  }
+}
